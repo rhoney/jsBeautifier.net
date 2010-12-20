@@ -1,4 +1,6 @@
-Supported command-line options:
+Double-click jsBeautifier.net.exe to run the application in interactive mode.
+
+The application can also be run from command-line to automate beautification tasks. Supported command-line options:
 
 1) sourceFile - Required
 The path to the javascript source file which needs to be beautified.
@@ -21,5 +23,5 @@ Whether to detect packing in source script.
 7) keepArrayIndent - Optional
 Whether to preserve array indents.
 
-For issues with third option onwards, please check the jsBeautifier docs:
+For issues with third option onwards, please check the js-beautify docs:
 https://github.com/einars/js-beautify
